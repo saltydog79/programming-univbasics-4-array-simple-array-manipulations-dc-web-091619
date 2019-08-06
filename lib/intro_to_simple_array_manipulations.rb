@@ -36,3 +36,4 @@ end
 def using_insert(array, element)
   array.insert(4, element)
 end
+# inserts a new element into array's 4th index position
