@@ -54,5 +54,5 @@ end
 # removes a specified duplicate and returns the removed element
 
 def using_delete_at(array, integer)
-  
+  array.delete_at(integer)
 end
