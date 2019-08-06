@@ -56,3 +56,4 @@ end
 def using_delete_at(array, integer)
   array.delete_at(integer)
 end
+# deletes the element from the array that's located at the index value equal to the specified integer
