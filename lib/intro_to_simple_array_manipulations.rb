@@ -22,3 +22,7 @@ def using_shift(array)
   array.shift
 end
 # removes first item of the array and returns it
+
+def shift_with_args(array)
+  array.shift(2)
+end
