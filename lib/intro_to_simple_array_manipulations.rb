@@ -52,3 +52,7 @@ def using_delete(array, string)
   array.delete(string)
 end
 # removes a specified duplicate and returns the removed element
+
+def using_delete_at(array, integer)
+  
+end
