@@ -47,3 +47,7 @@ def using_flatten(array)
   array.flatten
 end
 # returns a new array that "flattens" any multi-dimensional arrays in the overall array
+
+def using_delete(array, string)
+  array.delete(string)
+end
