@@ -31,3 +31,4 @@ end
 def using_concat(array1, array2)
   array1.concat(array2)
 end
+# adds contents of array2 to the contents of array1
