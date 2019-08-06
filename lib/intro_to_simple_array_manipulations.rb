@@ -34,5 +34,5 @@ end
 # adds contents of array2 to the contents of array1
 
 def using_insert(array, element)
-  array.insert(element)[4]
+  array.insert(4, element)
 end
