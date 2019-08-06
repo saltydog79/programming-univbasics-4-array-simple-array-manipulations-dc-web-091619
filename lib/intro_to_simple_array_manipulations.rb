@@ -46,3 +46,4 @@ end
 def using_flatten(array)
   array.flatten
 end
+# returns a new array that "flattens" any multi-dimensional arrays in the overall array
