@@ -26,3 +26,4 @@ end
 def shift_with_args(array)
   array.shift(2)
 end
+# removes the first 2 items from the array
